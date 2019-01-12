@@ -1,0 +1,9 @@
+1. install postgresql di linux
+$ sudo apt-get install postgresql postgresql-contrib
+2. install python
+$ sudo apt-get install python
+3. copy target di /etc/init.d/
+4. copy apps /root
+5. jalankan target
+# revice target start
+6. done
